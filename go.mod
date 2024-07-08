@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID/tonapi
+module github.com/openweb3-io/tonapi-go/tonapi
 
 go 1.18
 
